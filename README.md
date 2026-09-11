@@ -16,6 +16,7 @@ I build across the stack — Java desktop systems, C++ algorithm work, and full-
 | **[Todo Speckit](https://github.com/Morgan-Chebutuk/todospeckit-Morgan-Chebutuk)** | Spec-driven full-stack app — JWT auth, per-user data isolation, tests gating a CI/CD pipeline | Vue 3, Express, MySQL |
 | **[Secure Todo Frontend](https://github.com/Morgan-Chebutuk/todo-frontend-secure)** | SPA with route guards and a dedicated API services layer | Vue 3, Vite |
 | **[Kattis Problems](https://github.com/Morgan-Chebutuk/Kattis-Problems)** | Competitive programming solutions | C++ |
+| **[Portfolio](https://github.com/Morgan-Chebutuk/Morgan-Chebutuk.github.io)** | This site — [morgan-chebutuk.github.io](https://morgan-chebutuk.github.io). Hand-written, no framework or build step, deployed from `main` | HTML, CSS, JS |
 
 ### 🛠️ Tech
 
