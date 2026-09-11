@@ -1,9 +1,9 @@
 # Hi, I'm Morgan 👋
 
 Computer science student at **Oklahoma Christian University** (B.S. expected May 2027), based in Edmond, OK.
-I build across the stack — Java desktop systems, C++ real-time graphics, and full-stack JavaScript web apps.
+I build across the stack — Java desktop systems, C++ algorithm work, and full-stack JavaScript web apps.
 
-🌐 **[morgan-chebutuk.github.io](https://morgan-chebutuk.github.io)** &nbsp;·&nbsp; 📄 **[Resume](https://morgan-chebutuk.github.io/Morgan-Chebutuk-Resume.pdf)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/morgan-kimaset-chebutuk-65a146262)** &nbsp;·&nbsp; 📫 **kimasetm@gmail.com**
+🌐 **[morgan-chebutuk.github.io](https://morgan-chebutuk.github.io)** &nbsp;·&nbsp; 📄 **[Resume](https://morgan-chebutuk.github.io/resume.html)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/morgan-kimaset-chebutuk-65a146262)** &nbsp;·&nbsp; 📫 **kimasetm@gmail.com**
 
 ---
 
@@ -21,7 +21,7 @@ I build across the stack — Java desktop systems, C++ real-time graphics, and f
 
 **Languages** &nbsp; Java · C++ · JavaScript · HTML · CSS · SQL
 
-**Frameworks** &nbsp; Java Swing · SFML · Node.js · Express · Vue 3 · Vite
+**Frameworks** &nbsp; Java Swing · Node.js · Express · Vue 3 · Vite
 
 **Tools** &nbsp; Git · GitHub Actions · Eclipse · VS Code · Visual Studio · XAMPP · AWS
 
